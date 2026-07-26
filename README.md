@@ -20,7 +20,7 @@
 - 👨‍💻 All of my projects are available at my Github [khandakeraliariyan](https://github.com/khandakeraliariyan)
 - 💬 Ask me about **Node.js • Express.js • MongoDB • PostgreSQL • Prisma • Next.js • REST APIs • Authentication • Clean Architecture**
 - 📫 Reach me at **khandakeraliariyan@gmail.com**
-- 📄 Check out my resume [here](https://yourportfolio.vercel.app/resume)
+- 📄 Check out my resume [here]([https://yourportfolio.vercel.app/resume](http://khandakeraliariyan.vercel.app/resume.pdf))
 - ⚡ Fun fact: **I enjoy building AI-powered applications and hackathon projects that solve real-world problems at scale.**
 
 <br/>
